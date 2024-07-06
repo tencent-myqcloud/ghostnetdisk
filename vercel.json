@@ -1,6 +1,6 @@
 {
   "functions": {
-    "/*.php": {
+    "netdisk/*.php": {
       "runtime": "vercel-php@0.4.4"
     }
   }
